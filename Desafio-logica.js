@@ -43,7 +43,7 @@ else if(xp <=15000){
 }
 
 else {
-     ranked = "Randiante"
+     ranked = "Radiante"
 }
    
 console.log ("O Jogador " + nickname + " está no Ranking " + ranked)
